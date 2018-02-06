@@ -1,0 +1,45 @@
+<scoverage 
+statement-count="7" statements-invoked="6" statement-rate="85.71" branch-rate="100.00" version="1.0" timestamp="1517920848553">
+    <packages>
+        <package name="edu.knoldus.services" statement-count="7" statements-invoked="6" statement-rate="85.71">
+            <classes>
+                <class 
+                name="edu.knoldus.services.CheckoutService" filename="edu/knoldus/services/CheckoutService.scala" statement-count="7" statements-invoked="6" statement-rate="85.71" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="edu.knoldus.services/CheckoutService/addItemToCart" statement-count="3" statements-invoked="3" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus.services" class="CheckoutService" class-type="Class" full-class-name="edu.knoldus.services.CheckoutService" source="/home/knoldus/IdeaProjects/scalatest-knolkart/checkout/src/main/scala/edu/knoldus/services/CheckoutService.scala" method="addItemToCart" start="303" end="332" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus.services" class="CheckoutService" class-type="Class" full-class-name="edu.knoldus.services.CheckoutService" source="/home/knoldus/IdeaProjects/scalatest-knolkart/checkout/src/main/scala/edu/knoldus/services/CheckoutService.scala" method="addItemToCart" start="313" end="331" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus.services" class="CheckoutService" class-type="Class" full-class-name="edu.knoldus.services.CheckoutService" source="/home/knoldus/IdeaProjects/scalatest-knolkart/checkout/src/main/scala/edu/knoldus/services/CheckoutService.scala" method="addItemToCart" start="288" end="338" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="edu.knoldus.services/CheckoutService/removeItemFromCart" statement-count="4" statements-invoked="3" statement-rate="75.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus.services" class="CheckoutService" class-type="Class" full-class-name="edu.knoldus.services.CheckoutService" source="/home/knoldus/IdeaProjects/scalatest-knolkart/checkout/src/main/scala/edu/knoldus/services/CheckoutService.scala" method="removeItemFromCart" start="423" end="473" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus.services" class="CheckoutService" class-type="Class" full-class-name="edu.knoldus.services.CheckoutService" source="/home/knoldus/IdeaProjects/scalatest-knolkart/checkout/src/main/scala/edu/knoldus/services/CheckoutService.scala" method="removeItemFromCart" start="457" end="472" line="18" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus.services" class="CheckoutService" class-type="Class" full-class-name="edu.knoldus.services.CheckoutService" source="/home/knoldus/IdeaProjects/scalatest-knolkart/checkout/src/main/scala/edu/knoldus/services/CheckoutService.scala" method="removeItemFromCart" start="403" end="480" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus.services" class="CheckoutService" class-type="Class" full-class-name="edu.knoldus.services.CheckoutService" source="/home/knoldus/IdeaProjects/scalatest-knolkart/checkout/src/main/scala/edu/knoldus/services/CheckoutService.scala" method="removeItemFromCart" start="418" end="474" line="18" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

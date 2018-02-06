@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mCheckoutServiceTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32madd item to cart method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the cart on successful addition[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mremove item from cart method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the cart on successful deletion[0m[0m
